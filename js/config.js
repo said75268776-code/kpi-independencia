@@ -2,6 +2,6 @@
    Cuando la API esté en Render, pon su dirección en PROD_API. */
 (function () {
   var local = ['localhost', '127.0.0.1'].indexOf(location.hostname) >= 0;
-  var PROD_API = '';
+  var PROD_API = 'https://kpi-independencia.onrender.com';
   window.KPI_CONFIG = { API_BASE: local ? 'http://127.0.0.1:5000' : PROD_API };
 })();
