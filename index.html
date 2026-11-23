@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="es-PE">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#dfe3da" />
+    <meta name="color-scheme" content="light" />
+    <meta
+      name="description"
+      content="Tablero de desempeño municipal de Independencia (Huaraz, Áncash): 24 KPIs por área, entregables semanales, finanzas e inversiones. Demo con datos reales de inversión pública y datos de ejemplo marcados."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/tokens.css" />
+    <link rel="stylesheet" href="css/base.css" />
+    <link rel="stylesheet" href="css/kpi.css" />
+    <title>KPI Independencia</title>
+  </head>
+  <body>
+    <a class="skip" href="#view">Ir al contenido</a>
+
+    <div class="app">
+      <div class="scrim" id="scrim" hidden></div>
+
+      <aside class="sidebar" id="sidebar" aria-label="Navegación principal">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true">KI</span>
+          <span class="brand-text">
+            <strong>KPI Independencia</strong>
+            <small>Huaraz, Áncash</small>
+          </span>
+        </div>
+
+        <nav class="nav" id="nav">
+          <a href="#resumen" data-route="resumen">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7" height="9" rx="2"/><rect x="14" y="3" width="7" height="5" rx="2"/><rect x="14" y="12" width="7" height="9" rx="2"/><rect x="3" y="16" width="7" height="5" rx="2"/></svg>
+            Resumen ejecutivo
+          </a>
+          <a href="#kpis" data-route="kpis">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1"/></svg>
+            Matriz de 24 KPIs
+          </a>
+          <a href="#entregables" data-route="entregables">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 11l3 3 7-7"/><path d="M20 12v7a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h9"/></svg>
+            Entregables semanales
+          </a>
+          <a href="#finanzas" data-route="finanzas">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 7h15a3 3 0 0 1 3 3v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="M3 7l12-4v4"/><circle cx="16.5" cy="14" r="1.2"/></svg>
+            Finanzas y presupuesto
+          </a>
+          <a href="#inversiones" data-route="inversiones">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18"/><path d="M5 21V8l7-5 7 5v13"/><path d="M9 21v-6h6v6"/></svg>
+            Inversiones y contrataciones
+          </a>
+          <a href="#marco" data-route="marco">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5"/><path d="M9 7h6"/></svg>
+            Marco legal
+          </a>
+          <a href="#notas" data-route="notas">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5"/><path d="M12 8h.01"/></svg>
+            Fuentes y notas
+          </a>
+        </nav>
+
+        <p class="side-note">
+          Demo académica. No es un sitio oficial de la Municipalidad. Los datos marcados como
+          <em>ejemplo</em> se reemplazan cuando la municipalidad entregue sus cifras.
+        </p>
+      </aside>
+
+      <div class="main">
+        <header class="topbar">
+          <button type="button" class="icon-btn" id="menu-open" aria-label="Abrir menú" aria-controls="sidebar" aria-expanded="false">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+          </button>
+          <div class="topbar-id">
+            <span class="id-name">Municipalidad Distrital de Independencia</span>
+            <span class="id-sub" id="asof">Cargando datos…</span>
+          </div>
+          <label class="area-filter">
+            <span class="sr-only">Filtrar por área</span>
+            <select id="area-filter"></select>
+          </label>
+        </header>
+
+        <main id="view" class="view" tabindex="-1" aria-live="polite"></main>
+      </div>
+    </div>
+
+    <div class="tip" id="tip" role="tooltip" hidden></div>
+    <script src="js/config.js"></script>
+    <script src="js/app.js" defer></script>
+  </body>
+</html>

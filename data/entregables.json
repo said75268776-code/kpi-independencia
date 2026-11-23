@@ -1,0 +1,242 @@
+[
+  {
+    "areaId": "ORG-01",
+    "kpiId": "KPI-01",
+    "titulo": "Informe semanal de avance de metas – Concejo y Alcaldía",
+    "responsable": "Alcaldía",
+    "semana": "2026-S47",
+    "fechaLimite": "2026-11-20",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-01",
+    "kpiId": "KPI-02",
+    "titulo": "Actualización de datos del KPI y evidencias – Concejo y Alcaldía",
+    "responsable": "Alcaldía",
+    "semana": "2026-S48",
+    "fechaLimite": "2026-11-27",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-01",
+    "kpiId": "KPI-03",
+    "titulo": "Reporte de brechas y acciones correctivas – Concejo y Alcaldía",
+    "responsable": "Alcaldía",
+    "semana": "2026-S49",
+    "fechaLimite": "2026-12-04",
+    "estado": "en_proceso",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-02",
+    "kpiId": "KPI-04",
+    "titulo": "Informe semanal de avance de metas – Gerencia Municipal y OGPP",
+    "responsable": "Gerencia Municipal",
+    "semana": "2026-S47",
+    "fechaLimite": "2026-11-20",
+    "estado": "pendiente",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-02",
+    "kpiId": "KPI-05",
+    "titulo": "Actualización de datos del KPI y evidencias – Gerencia Municipal y OGPP",
+    "responsable": "Gerencia Municipal",
+    "semana": "2026-S48",
+    "fechaLimite": "2026-11-27",
+    "estado": "en_proceso",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-02",
+    "kpiId": "KPI-06",
+    "titulo": "Reporte de brechas y acciones correctivas – Gerencia Municipal y OGPP",
+    "responsable": "Gerencia Municipal",
+    "semana": "2026-S49",
+    "fechaLimite": "2026-12-04",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-03",
+    "kpiId": "KPI-07",
+    "titulo": "Informe semanal de avance de metas – Administración y Maestranza",
+    "responsable": "Oficina General de Administración",
+    "semana": "2026-S47",
+    "fechaLimite": "2026-11-20",
+    "estado": "pendiente",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-03",
+    "kpiId": "KPI-08",
+    "titulo": "Actualización de datos del KPI y evidencias – Administración y Maestranza",
+    "responsable": "Oficina General de Administración",
+    "semana": "2026-S48",
+    "fechaLimite": "2026-11-27",
+    "estado": "pendiente",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-03",
+    "kpiId": "KPI-09",
+    "titulo": "Reporte de brechas y acciones correctivas – Administración y Maestranza",
+    "responsable": "Oficina General de Administración",
+    "semana": "2026-S49",
+    "fechaLimite": "2026-12-04",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-04",
+    "kpiId": "KPI-10",
+    "titulo": "Informe semanal de avance de metas – Administración Tributaria",
+    "responsable": "Subgerencia de Recaudación",
+    "semana": "2026-S47",
+    "fechaLimite": "2026-11-20",
+    "estado": "en_proceso",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-04",
+    "kpiId": "KPI-11",
+    "titulo": "Actualización de datos del KPI y evidencias – Administración Tributaria",
+    "responsable": "Subgerencia de Recaudación",
+    "semana": "2026-S48",
+    "fechaLimite": "2026-11-27",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-04",
+    "kpiId": "KPI-12",
+    "titulo": "Reporte de brechas y acciones correctivas – Administración Tributaria",
+    "responsable": "Subgerencia de Recaudación",
+    "semana": "2026-S49",
+    "fechaLimite": "2026-12-04",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-05",
+    "kpiId": "KPI-13",
+    "titulo": "Informe semanal de avance de metas – Gerencia de Infraestructura",
+    "responsable": "Subgerencia de Estudios y Proyectos",
+    "semana": "2026-S47",
+    "fechaLimite": "2026-11-20",
+    "estado": "en_proceso",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-05",
+    "kpiId": "KPI-14",
+    "titulo": "Actualización de datos del KPI y evidencias – Gerencia de Infraestructura",
+    "responsable": "Subgerencia de Estudios y Proyectos",
+    "semana": "2026-S48",
+    "fechaLimite": "2026-11-27",
+    "estado": "pendiente",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-05",
+    "kpiId": "KPI-15",
+    "titulo": "Reporte de brechas y acciones correctivas – Gerencia de Infraestructura",
+    "responsable": "Subgerencia de Estudios y Proyectos",
+    "semana": "2026-S49",
+    "fechaLimite": "2026-12-04",
+    "estado": "en_proceso",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-06",
+    "kpiId": "KPI-16",
+    "titulo": "Informe semanal de avance de metas – Desarrollo Territorial",
+    "responsable": "Subgerencia de Habilitaciones Urbanas y Catastro",
+    "semana": "2026-S47",
+    "fechaLimite": "2026-11-20",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-06",
+    "kpiId": "KPI-17",
+    "titulo": "Actualización de datos del KPI y evidencias – Desarrollo Territorial",
+    "responsable": "Subgerencia de Habilitaciones Urbanas y Catastro",
+    "semana": "2026-S48",
+    "fechaLimite": "2026-11-27",
+    "estado": "pendiente",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-06",
+    "kpiId": "KPI-18",
+    "titulo": "Reporte de brechas y acciones correctivas – Desarrollo Territorial",
+    "responsable": "Subgerencia de Habilitaciones Urbanas y Catastro",
+    "semana": "2026-S49",
+    "fechaLimite": "2026-12-04",
+    "estado": "pendiente",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-07",
+    "kpiId": "KPI-19",
+    "titulo": "Informe semanal de avance de metas – Servicios Públicos y Ambiente",
+    "responsable": "Subgerencia de Gestión Ambiental",
+    "semana": "2026-S47",
+    "fechaLimite": "2026-11-20",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-07",
+    "kpiId": "KPI-20",
+    "titulo": "Actualización de datos del KPI y evidencias – Servicios Públicos y Ambiente",
+    "responsable": "Subgerencia de Gestión Ambiental",
+    "semana": "2026-S48",
+    "fechaLimite": "2026-11-27",
+    "estado": "en_proceso",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-07",
+    "kpiId": "KPI-21",
+    "titulo": "Reporte de brechas y acciones correctivas – Servicios Públicos y Ambiente",
+    "responsable": "Subgerencia de Gestión Ambiental",
+    "semana": "2026-S49",
+    "fechaLimite": "2026-12-04",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-08",
+    "kpiId": "KPI-22",
+    "titulo": "Informe semanal de avance de metas – Desarrollo Económico y Social",
+    "responsable": "Subgerencia de Promoción Empresarial",
+    "semana": "2026-S47",
+    "fechaLimite": "2026-11-20",
+    "estado": "entregado",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-08",
+    "kpiId": "KPI-23",
+    "titulo": "Actualización de datos del KPI y evidencias – Desarrollo Económico y Social",
+    "responsable": "Subgerencia de Promoción Empresarial",
+    "semana": "2026-S48",
+    "fechaLimite": "2026-11-27",
+    "estado": "en_proceso",
+    "nota": null
+  },
+  {
+    "areaId": "ORG-08",
+    "kpiId": "KPI-24",
+    "titulo": "Reporte de brechas y acciones correctivas – Desarrollo Económico y Social",
+    "responsable": "Subgerencia de Promoción Empresarial",
+    "semana": "2026-S49",
+    "fechaLimite": "2026-12-04",
+    "estado": "pendiente",
+    "nota": null
+  }
+]

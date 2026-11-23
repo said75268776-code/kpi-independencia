@@ -1,0 +1,129 @@
+{
+  "anio": 2026,
+  "asOf": "2026-10",
+  "estado": "ejemplo",
+  "nota": "Cifras de EJEMPLO para la demo. Solo el monto de gasto de capital del PIA (S/ 54,083,544, R.A. N.° 440-2025-MDI-A) proviene de la base legal del KPI-13 y está por verificar. Reemplazar con datos de Transparencia Económica (MEF) o de la Oficina de Presupuesto.",
+  "piaGastoCapital": 54083544,
+  "ingresos": [
+    {
+      "fuente": "Recursos ordinarios",
+      "pia": 24000000,
+      "recaudado": 26500000
+    },
+    {
+      "fuente": "Recursos directamente recaudados",
+      "pia": 6500000,
+      "recaudado": 5100000
+    },
+    {
+      "fuente": "Fondo de Compensación Municipal (FONCOMUN)",
+      "pia": 18500000,
+      "recaudado": 15600000
+    },
+    {
+      "fuente": "Impuestos municipales",
+      "pia": 7200000,
+      "recaudado": 5800000
+    },
+    {
+      "fuente": "Canon y regalías mineras",
+      "pia": 31000000,
+      "recaudado": 24200000
+    },
+    {
+      "fuente": "Donaciones y transferencias",
+      "pia": 1683544,
+      "recaudado": 1400000
+    }
+  ],
+  "gastos": [
+    {
+      "generica": "Personal y obligaciones sociales",
+      "pia": 9800000,
+      "pim": 10100000,
+      "devengado": 7300000
+    },
+    {
+      "generica": "Obligaciones previsionales",
+      "pia": 1200000,
+      "pim": 1200000,
+      "devengado": 900000
+    },
+    {
+      "generica": "Bienes y servicios",
+      "pia": 21500000,
+      "pim": 23800000,
+      "devengado": 15200000
+    },
+    {
+      "generica": "Donaciones y transferencias",
+      "pia": 1400000,
+      "pim": 1500000,
+      "devengado": 1000000
+    },
+    {
+      "generica": "Otros gastos",
+      "pia": 900000,
+      "pim": 1000000,
+      "devengado": 650000
+    },
+    {
+      "generica": "Adquisición de activos no financieros (inversión)",
+      "pia": 54083544,
+      "pim": 61000000,
+      "devengado": 31500000
+    }
+  ],
+  "mensual": [
+    {
+      "mes": "Ene",
+      "ingreso": 6100000,
+      "gasto": 3900000
+    },
+    {
+      "mes": "Feb",
+      "ingreso": 7400000,
+      "gasto": 5200000
+    },
+    {
+      "mes": "Mar",
+      "ingreso": 8000000,
+      "gasto": 6100000
+    },
+    {
+      "mes": "Abr",
+      "ingreso": 9200000,
+      "gasto": 7400000
+    },
+    {
+      "mes": "May",
+      "ingreso": 9900000,
+      "gasto": 8800000
+    },
+    {
+      "mes": "Jun",
+      "ingreso": 10400000,
+      "gasto": 9700000
+    },
+    {
+      "mes": "Jul",
+      "ingreso": 11000000,
+      "gasto": 10900000
+    },
+    {
+      "mes": "Ago",
+      "ingreso": 10200000,
+      "gasto": 11200000
+    },
+    {
+      "mes": "Set",
+      "ingreso": 9600000,
+      "gasto": 10600000
+    },
+    {
+      "mes": "Oct",
+      "ingreso": 9800000,
+      "gasto": 9900000
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ORG-01",
+    "corto": "Concejo y Alcaldía",
+    "nombre": "Concejo Municipal, Alcaldía y Secretaría General",
+    "icono": "🏛️",
+    "responsables": "Alcaldía / Concejo Municipal / Oficina Gral. de Atención al Ciudadano y Gestión Documentaria",
+    "baseLegal": "Art. 9, 20, 41 y 119-A LOM (Mod. Ley 31433 y Ley 31812)"
+  },
+  {
+    "id": "ORG-02",
+    "corto": "Gerencia Municipal y OGPP",
+    "nombre": "Gerencia Municipal y Oficina General de Planeamiento y Presupuesto",
+    "icono": "📈",
+    "responsables": "Gerencia Municipal / Subgerencia de Planificación, Racionalización y Estadística / OPMI",
+    "baseLegal": "Art. 26-28 LOM • R.A. N.° 440-2025-MDI-A (PIA 2026: S/ 91.48M)"
+  },
+  {
+    "id": "ORG-03",
+    "corto": "Administración y Maestranza",
+    "nombre": "Oficina General de Administración (OGA) y Unidad de Gestión Patrimonial y Maestranza",
+    "icono": "⚙️",
+    "responsables": "Oficina General de Administración / Abastecimiento / Unidad de Gestión Patrimonial y Maestranza / RR.HH.",
+    "baseLegal": "Art. 34 y 55 LOM • Art. 50° ROF mod. por O.M. N.° 000002-2026-MDI/A"
+  },
+  {
+    "id": "ORG-04",
+    "corto": "Administración Tributaria",
+    "nombre": "Gerencia de Administración Tributaria y Rentas (GATR)",
+    "icono": "💰",
+    "responsables": "Subgerencia de Recaudación / Subgerencia de Fiscalización / Subgerencia de Ejecución Coactiva",
+    "baseLegal": "Art. 46, 69 y 70 LOM • Mod. Ley N.° 32035 (Ejecución Coactiva)"
+  },
+  {
+    "id": "ORG-05",
+    "corto": "Gerencia de Infraestructura",
+    "nombre": "Gerencia de Infraestructura (Estudios, Obras y Mantenimiento)",
+    "icono": "🏗️",
+    "responsables": "Subgerencia de Estudios y Proyectos / Subgerencia de Obras Públicas / Unidad de Mantenimiento de Infraestructura Pública",
+    "baseLegal": "Art. 79 LOM • Art. 97° y 99° ROF mod. por O.M. N.° 000002-2026-MDI/A"
+  },
+  {
+    "id": "ORG-06",
+    "corto": "Desarrollo Territorial",
+    "nombre": "Gerencia de Desarrollo Territorial (Catastro y Habilitaciones Urbanas)",
+    "icono": "🗺️",
+    "responsables": "Subgerencia de Habilitaciones Urbanas y Catastro / Control Urbano",
+    "baseLegal": "Art. 46, 52-B, 78 y 79 LOM • Mod. Ley N.° 31560 y Ley N.° 32035"
+  },
+  {
+    "id": "ORG-07",
+    "corto": "Servicios Públicos y Ambiente",
+    "nombre": "Gerencia de Servicios Públicos y Gestión Ambiental (GSPGA)",
+    "icono": "🌿",
+    "responsables": "Subgerencia de Gestión Ambiental / Subgerencia de Seguridad Ciudadana y Servicios Municipales / GRD",
+    "baseLegal": "Art. 80, 81 y 85 LOM • EFA Local, SINAGERD y CODISEC"
+  },
+  {
+    "id": "ORG-08",
+    "corto": "Desarrollo Económico y Social",
+    "nombre": "Gerencia de Desarrollo Económico y Social (GDES)",
+    "icono": "🤝",
+    "responsables": "Subgerencia de Promoción Empresarial / Subgerencia de Salud, Salubridad y Programas Sociales (PVL, DEMUNA, OMAPED, CIAM)",
+    "baseLegal": "Art. 49, 83 y 84 LOM • Mod. Ley N.° 31914 (Licencias e ITSE 48h)"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "LEY-31433",
+    "code": "Ley N.° 31433",
+    "date": "Publicada: 06/03/2022 (Vigencia plena 2026)",
+    "title": "Fortalecimiento de la Función Fiscalizadora de Concejos Municipales, Integridad y Rendición de Cuentas",
+    "articlesModified": "Modifica Art. 9, 10, 13, 20, 29, 41 e incorpora Art. 119-A de la Ley N.° 27972",
+    "sourceUrl": "https://www.gob.pe/21381-precisiones-de-la-ley-31433-sobre-requerimientos-de-informacion-atribuciones-del-concejo-y-participacion-y-transparencia",
+    "keyChanges": [
+      "Los pedidos de información del Concejo al Alcalde o Gerente Municipal requieren voto favorable de al menos 1/3 del número legal de regidores; los regidores individuales solicitan información directamente a la administración municipal (plazo máx. 10 días hábiles).",
+      "El Alcalde, bajo responsabilidad, debe ejecutar los acuerdos de concejo mediante un Plan de Implementación.",
+      "El Concejo Municipal designa (de terna propuesta por el Alcalde) al Secretario Técnico del PAD y al Coordinador de la Unidad Funcional de Integridad Institucional.",
+      "Obligación del Alcalde de convocar, bajo responsabilidad, a mínimo dos (2) Audiencias Públicas de Rendición de Cuentas al año (en mayo y septiembre, Art. 119-A)."
+    ],
+    "relatedKpis": [
+      "KPI-01",
+      "KPI-03",
+      "KPI-06"
+    ]
+  },
+  {
+    "id": "LEY-31812",
+    "code": "Ley N.° 31812",
+    "date": "Publicada: 05/07/2023",
+    "title": "Aseguramiento del Financiamiento para el Ejercicio de la Función Fiscalizadora de los Concejos Municipales",
+    "articlesModified": "Modifica el Art. 9 numeral 22 y el Art. 41 de la Ley N.° 27972",
+    "sourceUrl": "https://busquedas.elperuano.pe/dispositivo/NL/2192925-1",
+    "keyChanges": [
+      "Establece que los recursos presupuestales destinados a fortalecer la fiscalización del Concejo Municipal no pueden ser inferiores al 1% ni superiores al 2% del presupuesto precedente de la suma de los montos del FONCOMUN e Impuestos Municipales.",
+      "Obliga a vincular dichos recursos a una actividad presupuestal específica y a aprobar anualmente el Programa de Acciones de Fiscalización (PAF) del Concejo Municipal.",
+      "Faculta la contratación de servicios técnicos y profesionales especializados para las comisiones fiscalizadoras de regidores."
+    ],
+    "relatedKpis": [
+      "KPI-02"
+    ]
+  },
+  {
+    "id": "LEY-31914",
+    "code": "Ley N.° 31914",
+    "date": "Publicada: 28/10/2023",
+    "title": "Regulación Estricta de Supuestos de Clausura Temporal y Definitiva de Establecimientos Comerciales",
+    "articlesModified": "Modifica el primer párrafo del Art. 49 y el segundo párrafo del Art. 78 de la Ley N.° 27972 (y Ley N.° 28976)",
+    "sourceUrl": "https://www.macrogestion.com.pe/licencias-municipales/",
+    "keyChanges": [
+      "La clausura temporal es una medida preventiva indelegable del Gerente de Fiscalización (o quien haga sus veces) y solo procede ante riesgo inminente para la vida, salud o falta de licencia/ITSE.",
+      "Se levanta dentro de las 48 horas siguientes a que el titular subsane las observaciones y lo comunique formalmente. Si la municipalidad no formula observación motivada en 48 horas, la clausura queda sin efecto automáticamente.",
+      "Prohíbe usar la clausura temporal como mecanismo de cobranza de multas administrativas."
+    ],
+    "relatedKpis": [
+      "KPI-22"
+    ]
+  },
+  {
+    "id": "LEY-32035",
+    "code": "Ley N.° 32035",
+    "date": "Publicada: 25/05/2024",
+    "title": "Agilización de Procesos de Demolición y Ejecución Coactiva en Espacios Públicos",
+    "articlesModified": "Modifica el tercer párrafo del Art. 46 e incorpora el Art. 52-B a la Ley N.° 27972 (y modifica Ley N.° 26979)",
+    "sourceUrl": "https://www.rubio.pe/alerta/ley-n-32035-ley-que-modifica-la-ley-27972-ley-organica-de-municipalidades-y-la-ley-26979-ley-de-procedimiento-de-ejecucion-coactiva-para-agilizar-los-procesos-de-demolicion/",
+    "keyChanges": [
+      "Fortalece la potestad sancionadora y de ejecución coactiva municipal para ejecutar medidas complementarias de demolición y retiro de obras e instalaciones que ocupen áreas de uso público (calles, pasajes, parques) o comprometan la seguridad.",
+      "Restringe la suspensión automática del procedimiento coactivo en casos de construcciones ilegales en bienes de dominio público."
+    ],
+    "relatedKpis": [
+      "KPI-12",
+      "KPI-18"
+    ]
+  },
+  {
+    "id": "OM-002-2026",
+    "code": "O.M. N.° 000002-2026-MDI/A",
+    "date": "Publicada: 12/03/2026 (MDI Huaraz)",
+    "title": "Modificación del Reglamento de Organización y Funciones (ROF) de la Municipalidad Distrital de Independencia",
+    "articlesModified": "Modifica los Artículos 50°, 97° y 99° del ROF aprobado por O.M. N.° 012-2024-MDI-A",
+    "sourceUrl": "https://www.gob.pe/institucion/muniindependencia-huaraz/normas-legales/7915963-000002-2026-mdi-a",
+    "keyChanges": [
+      "Art. 50° ROF: Traslada las funciones de Maestranza a la Oficina de Abastecimiento (OGA), creando la \"Unidad de Gestión Patrimonial y Maestranza\" para controlar la operatividad, repuestos y mantenimiento de toda la flota vehicular y maquinaria pesada.",
+      "Art. 97° ROF: Especializa a la \"Unidad de Mantenimiento de Infraestructura Pública\" (Subgerencia de Obras Públicas) en la elaboración de Fichas Técnicas y Expedientes Técnicos de mantenimiento preventivo, correctivo y recuperativo.",
+      "Art. 99° ROF: Libera a la \"Subgerencia de Estudios y Proyectos\" de los expedientes de mantenimiento para que se concentre al 100% en estudios de preinversión, Proyectos de Inversión (PI) e inversiones IOARR."
+    ],
+    "relatedKpis": [
+      "KPI-07",
+      "KPI-14",
+      "KPI-15"
+    ]
+  },
+  {
+    "id": "LEY-31419-MEF",
+    "code": "Ley N.° 31419 + PI MEF 2026",
+    "date": "Marco Transversal de Productividad 2026",
+    "title": "Idoneidad en la Función Pública Municipal (Art. 26-28 LOM) y Programa de Incentivos MEF 2026",
+    "articlesModified": "Art. 26, 27, 28, 70, 80 y 84 de la Ley N.° 27972 • Ley N.° 31419 y Ley N.° 29332",
+    "sourceUrl": "https://www.mef.gob.pe/es/incentivos-para-gobiernos-locales-y-regionales/programa-de-incentivos-a-la-mejora-de-la-gestion-municipal",
+    "keyChanges": [
+      "Exige requisitos mínimos de experiencia específica en gestión municipal para el Gerente Municipal y gerentes de línea/apoyo, reduciendo la rotación directiva.",
+      "Articula las competencias de los Art. 70 (Tributación), Art. 80 (Residuos Sólidos) y Art. 84 (Programas Sociales/Anemia) con metas cuantitativas verificables por el MEF."
+    ],
+    "relatedKpis": [
+      "KPI-05",
+      "KPI-06",
+      "KPI-10",
+      "KPI-19",
+      "KPI-23"
+    ]
+  }
+]

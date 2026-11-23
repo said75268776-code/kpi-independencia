@@ -1,0 +1,79 @@
+/* Design tokens (copiados del Monitoreo Independencia, v2): lienzo salvia alrededor de la app,
+   barra lateral oscura, tarjetas blancas redondeadas, resalte lima, tinta oscura. Solo tema claro. */
+:root {
+  color-scheme: light;
+
+  --font:
+    'Instrument Sans Variable', 'Instrument Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI',
+    sans-serif;
+
+  /* escala tipográfica */
+  --t-xs: 0.75rem;
+  --t-sm: 0.875rem;
+  --t-md: 1rem;
+  --t-lg: 1.25rem;
+  --t-xl: 1.75rem;
+  --t-2xl: 2.75rem;
+  --t-3xl: 3.25rem;
+
+  /* lienzo y superficies */
+  --bg: #dfe3da; /* fuera del marco de la app */
+  --frame: #f2f3ee; /* lienzo de la app */
+  --surface: #ffffff;
+  --surface-2: #f2f3ee; /* fondos hundidos dentro de tarjetas */
+  --line: #e6e8e1;
+  --line-strong: #cdd1c7;
+
+  /* tinta (≥ 4.5:1 sobre blanco y sobre --frame) */
+  --ink: #14161a;
+  --ink-2: #3b3f46;
+  --ink-3: #5f646b;
+
+  /* identidad */
+  --dark: #15171b;
+  --dark-2: #23262c;
+  --on-dark: #f2f3ee;
+  --on-dark-2: #a9aeb4;
+  --lime: #d4f06f;
+  --lime-strong: #b8dc3c;
+  --lime-soft: #eef8cc;
+  --lime-ink: #29330a;
+
+  /* alias usados por gráficos y mapa */
+  --accent: var(--dark);
+  --accent-ink: var(--dark);
+  --accent-soft: var(--lime-soft);
+
+  /* niveles semánticos: solo puntos, barras finas y etiquetas cortas */
+  --normal: #3c9a5d;
+  --atencion: #d39a1d;
+  --alerta: #e0692b;
+  --emergencia: #cf3d2e;
+
+  /* datos */
+  --water: #4a7f95;
+  --quake: #c2511f;
+  --warm: #e0692b;
+  --cool: #8d86e0;
+  --neutral: #c9ccc3;
+  /* rayado diagonal para capacidad vacía (un mosaico SVG, no un degradado) */
+  --hatch: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='6' height='6'%3E%3Cpath d='M-1 1l2-2M0 6l6-6M5 7l2-2' stroke='%23d9dcd2' stroke-width='1.4'/%3E%3C/svg%3E");
+
+  /* forma */
+  --r-sm: 12px;
+  --r: 24px;
+  --r-pill: 999px;
+  --gap: 14px;
+  --gutter: 16px;
+  --sidebar: 252px;
+  --rail: 80px;
+  --topbar-h: 60px;
+  --maxw: 1360px;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --gap: 16px;
+    --gutter: 28px;
+  }
+}
